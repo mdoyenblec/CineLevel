@@ -1,0 +1,283 @@
+Rank,Title,Year,Duration,Genre,Image
+1,Les Évadés,1994,2 h 22 min.,Drame,https://media.senscritique.com/media/000013274439/300/les_evades.png
+2,Le Parrain,1972,2 h 55 min.,"Policier, Drame",https://media.senscritique.com/media/000020072264/300/le_parrain.jpg
+3,Le Parrain - 2e Partie,1974,3 h 20 min.,"Gangster, Drame",https://media.senscritique.com/media/000012645922/300/le_parrain_2e_partie.jpg
+4,Le Parrain - 3e Partie,1990,2 h 42 min.,"Drame, Gangster",https://media.senscritique.com/media/000016589583/300/le_parrain_3e_partie.jpg
+5,La Liste de Schindler,1993,3 h 15 min.,"Biopic, Drame, Historique",https://media.senscritique.com/media/000012321891/300/la_liste_de_schindler.jpg
+6,Le Seigneur des Anneaux - La Communauté de l'anneau,2001,2 h 58 min.,"Aventure, Fantasy",https://media.senscritique.com/media/000004017708/300/le_seigneur_des_anneaux_la_communaute_de_l_anneau.jpg
+7,Le Seigneur des Anneaux - Les Deux Tours,2002,2 h 59 min.,"Aventure, Fantasy",https://media.senscritique.com/media/000019314994/300/le_seigneur_des_anneaux_les_deux_tours.jpg
+8,Le Seigneur des Anneaux - Le Retour du roi,2003,3 h 21 min.,"Aventure, Fantasy",https://media.senscritique.com/media/000007087660/300/le_seigneur_des_anneaux_le_retour_du_roi.jpg
+9,Pulp Fiction,1994,2 h 34 min.,"Gangster, Comédie",https://media.senscritique.com/media/000012288077/300/pulp_fiction.jpg
+10,Fight Club,1999,2 h 19 min.,Drame,https://media.senscritique.com/media/000012359351/300/fight_club.jpg
+11,Forrest Gump,1994,2 h 22 min.,"Drame, Romance",https://media.senscritique.com/media/000022091644/300/forrest_gump.png
+12,"Le Bon, la Brute et le Truand",1966,2 h 59 min.,"Western, Aventure",https://media.senscritique.com/media/000008032023/300/le_bon_la_brute_et_le_truand.jpg
+13,La Guerre des étoiles,1977,2 h 01 min.,"Aventure, Science-fiction, Action",https://media.senscritique.com/media/000021484879/300/la_guerre_des_etoiles.png
+14,L'Empire contre-attaque,1980,2 h 04 min.,"Aventure, Science-fiction, Action",https://media.senscritique.com/media/000021495539/300/l_empire_contre_attaque.png
+15,Le Retour du Jedi,1983,2 h 14 min.,"Aventure, Science-fiction, Action",https://media.senscritique.com/media/000016407619/300/le_retour_du_jedi.jpg
+16,Vol au-dessus d'un nid de coucou,1975,2 h 13 min.,"Drame, Comédie dramatique",https://media.senscritique.com/media/000016145216/300/vol_au_dessus_d_un_nid_de_coucou.jpg
+17,Les Affranchis,1990,2 h 26 min.,"Gangster, Biopic",https://media.senscritique.com/media/000008041479/300/les_affranchis.jpg
+18,Matrix,1999,2 h 16 min.,"Action, Science-fiction, Arts martiaux",https://media.senscritique.com/media/000021915685/300/matrix.png
+19,Matrix Reloaded,2003,2 h 18 min.,"Action, Science-fiction",https://media.senscritique.com/media/000010181662/300/matrix_reloaded.jpg
+20,Matrix Revolutions,2003,2 h 09 min.,"Action, Science-fiction, Aventure",https://media.senscritique.com/media/000005649132/300/matrix_revolutions.jpg
+21,Titanic,1997,3 h 14 min.,"Drame, Romance, Catastrophe",https://media.senscritique.com/media/000021973040/300/titanic.png
+22,Batman Begins,2005,2 h 20 min.,"Action, Aventure, Policier",https://media.senscritique.com/media/000004875094/300/batman_begins.jpg
+23,The Dark Knight - Le Chevalier noir,2008,2 h 32 min.,"Action, Policier, Thriller",https://media.senscritique.com/media/000018762557/300/the_dark_knight_le_chevalier_noir.jpg
+24,The Dark Knight Rises,2012,2 h 44 min.,"Action, Policier, Thriller",https://media.senscritique.com/media/000004874820/300/the_dark_knight_rises.jpg
+25,Seven,1995,2 h 07 min.,"Policier, Thriller",https://media.senscritique.com/media/000012353656/300/seven.jpg
+26,La Cité de Dieu,2002,2 h 10 min.,"Drame, Gangster",https://media.senscritique.com/media/000019039867/300/la_cite_de_dieu.jpg
+27,Le Silence des agneaux,1991,1 h 58 min.,"Policier, Drame, Thriller",https://media.senscritique.com/media/000004876963/300/le_silence_des_agneaux.jpg
+28,La vie est belle,1946,2 h 10 min.,"Drame, Fantastique",https://media.senscritique.com/media/000020076080/300/la_vie_est_belle.jpg
+29,Douze Hommes en colère,1957,1 h 36 min.,"Policier, Drame",https://media.senscritique.com/media/000017381024/300/douze_hommes_en_colere.jpg
+30,12 hommes en colère,1997,1 h 57 min.,"Drame, Policier",https://media.senscritique.com/media/000019813451/300/12_hommes_en_colere.jpg
+31,Il faut sauver le soldat Ryan,1998,2 h 49 min.,"Guerre, Drame",https://media.senscritique.com/media/000008269224/300/il_faut_sauver_le_soldat_ryan.jpg
+32,Usual Suspects,1995,1 h 46 min.,"Policier, Thriller",https://media.senscritique.com/media/000004888256/300/usual_suspects.jpg
+33,Léon,1994,1 h 50 min.,"Policier, Drame, Thriller",https://media.senscritique.com/media/000004675233/300/leon.jpg
+34,La Ligne verte,1999,3 h 09 min.,"Drame, Fantastique",https://media.senscritique.com/media/000009568130/300/la_ligne_verte.jpg
+35,Interstellar,2014,2 h 49 min.,"Science-fiction, Drame, Aventure",https://media.senscritique.com/media/000018762465/300/interstellar.jpg
+36,Psychose,1960,1 h 49 min.,Thriller,https://media.senscritique.com/media/000015172714/300/psychose.jpg
+37,American History X,1998,1 h 59 min.,"Policier, Drame",https://media.senscritique.com/media/000012223258/300/american_history_x.jpg
+38,Les Lumières de la ville,1931,1 h 27 min.,"Comédie dramatique, Romance, Muet",https://media.senscritique.com/media/000000170653/300/les_lumieres_de_la_ville.jpg
+39,Inception,2010,2 h 28 min.,"Action, Thriller, Science-fiction",https://media.senscritique.com/media/000004710747/300/inception.jpg
+40,Il était une fois dans l'Ouest,1968,2 h 55 min.,Western,https://media.senscritique.com/media/000012461293/300/il_etait_une_fois_dans_l_ouest.jpg
+41,Le Pianiste,2002,2 h 30 min.,"Biopic, Drame, Guerre",https://media.senscritique.com/media/000014724041/300/le_pianiste.jpg
+42,Les Temps modernes,1936,1 h 27 min.,"Comédie dramatique, Muet",https://media.senscritique.com/media/000011614087/300/les_temps_modernes.jpg
+43,Les Infiltrés,2006,2 h 31 min.,"Gangster, Thriller, Policier",https://media.senscritique.com/media/000000041153/300/les_infiltres.jpg
+44,Retour vers le futur,1985,1 h 56 min.,"Comédie, Science-fiction",https://media.senscritique.com/media/000012222742/300/retour_vers_le_futur.jpg
+45,Retour vers le futur 2,1989,1 h 48 min.,"Comédie, Science-fiction, Aventure",https://media.senscritique.com/media/000009576077/300/retour_vers_le_futur_2.jpg
+46,Retour vers le futur 3,1990,1 h 58 min.,"Comédie, Science-fiction, Aventure",https://media.senscritique.com/media/000009576149/300/retour_vers_le_futur_3.jpg
+47,Intouchables,2011,1 h 52 min.,"Biopic, Comédie dramatique",https://media.senscritique.com/media/000004674748/300/intouchables.jpg
+48,Terminator,1984,1 h 47 min.,"Action, Science-fiction, Épouvante-Horreur",https://media.senscritique.com/media/000021439241/300/terminator.png
+49,Terminator 2 - Le Jugement dernier,1991,2 h 17 min.,"Action, Science-fiction, Thriller",https://media.senscritique.com/media/000009494983/300/terminator_2_le_jugement_dernier.png
+50,Le Roi Lion,1994,1 h 29 min.,"Animation, Aventure, Drame",https://media.senscritique.com/media/000013958878/300/le_roi_lion.jpg
+51,Whiplash,2014,1 h 47 min.,"Drame, Musique",https://media.senscritique.com/media/000007496942/300/whiplash.jpg
+52,Fenêtre sur cour,1954,1 h 52 min.,Thriller,https://media.senscritique.com/media/000013843742/300/fenetre_sur_cour.jpg
+53,Gladiator,2000,2 h 35 min.,"Péplum, Aventure, Drame",https://media.senscritique.com/media/000012334489/300/gladiator.jpg
+54,Les Aventuriers de l'arche perdue,1981,1 h 55 min.,"Aventure, Action",https://media.senscritique.com/media/000007369287/300/les_aventuriers_de_l_arche_perdue.jpg
+55,Indiana Jones et le Temple maudit,1984,1 h 58 min.,"Aventure, Action",https://media.senscritique.com/media/000021439228/300/indiana_jones_et_le_temple_maudit.png
+56,Indiana Jones et la Dernière Croisade,1989,2 h 07 min.,"Aventure, Action",https://media.senscritique.com/media/000009674397/300/indiana_jones_et_la_derniere_croisade.jpg
+57,Le Prestige,2006,2 h 10 min.,"Drame, Thriller",https://media.senscritique.com/media/000004699879/300/le_prestige.jpg
+58,Apocalypse Now,1979,2 h 27 min.,"Drame, Guerre",https://media.senscritique.com/media/000012235164/300/apocalypse_now.jpg
+59,Memento,2000,1 h 53 min.,Thriller,https://media.senscritique.com/media/000017377928/300/memento.jpg
+60,Alien - Le 8ème Passager,1979,1 h 57 min.,"Épouvante-Horreur, Science-fiction",https://media.senscritique.com/media/000006886214/300/alien_le_8eme_passager.jpg
+61,"Aliens, le retour",1986,2 h 17 min.,"Action, Science-fiction, Épouvante-Horreur",https://media.senscritique.com/media/000004705980/300/aliens_le_retour.jpg
+62,Alien³,1992,1 h 54 min.,"Science-fiction, Épouvante-Horreur",https://media.senscritique.com/media/000008632186/300/alien3.jpg
+63,Le Tombeau des lucioles,1988,1 h 29 min.,"Animation, Drame, Guerre",https://media.senscritique.com/media/000020033931/300/le_tombeau_des_lucioles.jpg
+64,Parasite,2019,2 h 12 min.,"Drame, Thriller, Comédie",https://media.senscritique.com/media/000021900167/300/parasite.png
+65,Le Dictateur,1940,2 h 05 min.,"Comédie dramatique, Guerre",https://media.senscritique.com/media/000019149338/300/le_dictateur.jpg
+66,Boulevard du crépuscule,1950,1 h 50 min.,Film noir,https://media.senscritique.com/media/000019179324/300/boulevard_du_crepuscule.jpg
+67,La Vie des autres,2006,2 h 17 min.,"Drame, Thriller, Historique",https://media.senscritique.com/media/000019230789/300/la_vie_des_autres.jpg
+68,Docteur Folamour,1964,1 h 35 min.,Comédie,https://media.senscritique.com/media/000013917997/300/docteur_folamour.png
+69,Les Sentiers de la gloire,1957,1 h 28 min.,"Drame, Guerre",https://media.senscritique.com/media/000012494951/300/les_sentiers_de_la_gloire.jpg
+70,Django Unchained,2012,2 h 45 min.,Western,https://media.senscritique.com/media/000013924487/300/django_unchained.jpg
+71,Shining,1980,1 h 59 min.,"Épouvante-Horreur, Thriller",https://media.senscritique.com/media/000019629004/300/shining.jpg
+72,Wall-E,2008,1 h 38 min.,"Animation, Aventure, Science-fiction",https://media.senscritique.com/media/000006424588/300/wall_e.jpg
+73,Princesse Mononoké,1997,2 h 14 min.,"Animation, Aventure, Fantasy",https://media.senscritique.com/media/000020028877/300/princesse_mononoke.jpg
+74,Témoin à charge,1957,1 h 56 min.,"Policier, Drame, Thriller",https://media.senscritique.com/media/000008699764/300/temoin_a_charge.jpg
+75,Old Boy,2003,2 h.,"Drame, Thriller, Film noir",https://media.senscritique.com/media/000015162373/300/old_boy.jpg
+76,Casablanca,1942,1 h 42 min.,"Drame, Romance, Guerre",https://media.senscritique.com/media/000013843046/300/casablanca.jpg
+77,American Beauty,1999,2 h 02 min.,Drame,https://media.senscritique.com/media/000012536800/300/american_beauty.jpg
+78,Il était une fois en Amérique,1984,3 h 49 min.,"Drame, Gangster",https://media.senscritique.com/media/000020028882/300/il_etait_une_fois_en_amerique.jpg
+79,Les Sept Samouraïs,1954,3 h 27 min.,"Arts martiaux, Aventure, Drame",https://media.senscritique.com/media/000022149873/300/les_sept_samourais.jpg
+80,Le Bateau,1981,2 h 29 min.,"Aventure, Drame, Thriller",https://media.senscritique.com/media/000019826318/300/le_bateau.jpg
+81,Lost in Translation,2003,1 h 41 min.,"Drame, Comédie romantique",https://media.senscritique.com/media/000006098072/300/lost_in_translation.jpg
+82,Braveheart,1995,2 h 57 min.,"Biopic, Drame, Historique",https://media.senscritique.com/media/000012318304/300/braveheart.jpg
+83,Sueurs froides,1958,2 h 08 min.,"Romance, Thriller, Film noir",https://media.senscritique.com/media/000004888043/300/sueurs_froides.jpg
+84,Rain Man,1988,2 h 13 min.,"Comédie dramatique, Road movie",https://media.senscritique.com/media/000019034934/300/rain_man.jpg
+85,Le Voyage de Chihiro,2001,2 h 05 min.,"Animation, Aventure, Fantasy",https://media.senscritique.com/media/000012539796/300/le_voyage_de_chihiro.jpg
+86,Reservoir Dogs,1992,1 h 39 min.,Gangster,https://media.senscritique.com/media/000013405135/300/reservoir_dogs.png
+87,Amadeus,1984,2 h 40 min.,"Biopic, Drame",https://media.senscritique.com/media/000017376446/300/amadeus.jpg
+88,M le maudit,1931,1 h 57 min.,"Policier, Drame, Thriller",https://media.senscritique.com/media/000015265846/300/m_le_maudit.jpg
+89,Requiem for a Dream,2000,1 h 42 min.,Drame,https://media.senscritique.com/media/000004889740/300/requiem_for_a_dream.jpg
+90,Orange mécanique,1971,2 h 16 min.,"Drame, Science-fiction",https://media.senscritique.com/media/000012241934/300/orange_mecanique.jpg
+91,Elling,2002,1 h 29 min.,"Comédie, Drame",https://media.senscritique.com/media/000007121897/300/elling.jpg
+92,Citizen Kane,1941,1 h 59 min.,Drame,https://media.senscritique.com/media/000017363577/300/citizen_kane.jpg
+93,2001 : L'Odyssée de l'espace,1968,2 h 40 min.,"Aventure, Science-fiction",https://media.senscritique.com/media/000019230851/300/2001_l_odyssee_de_l_espace.jpg
+94,Sixième Sens,1999,1 h 47 min.,"Drame, Thriller, Fantastique",https://media.senscritique.com/media/000004017482/300/sixieme_sens.jpg
+95,Eternal Sunshine of the Spotless Mind,2004,1 h 48 min.,"Drame, Romance, Science-fiction",https://media.senscritique.com/media/000012223508/300/eternal_sunshine_of_the_spotless_mind.jpg
+96,Lawrence d'Arabie,1962,3 h 36 min.,"Aventure, Biopic, Drame",https://media.senscritique.com/media/000018396964/300/lawrence_d_arabie.jpg
+97,Toy Story,1995,1 h 21 min.,"Comédie, Animation",https://media.senscritique.com/media/000016890492/300/toy_story.jpg
+98,Toy Story 2,1999,1 h 32 min.,"Aventure, Comédie, Animation",https://media.senscritique.com/media/000004766925/300/toy_story_2.jpg
+99,Toy Story 3,2010,1 h 43 min.,"Aventure, Comédie, Animation",https://media.senscritique.com/media/000005726087/300/toy_story_3.jpg
+100,Chantons sous la pluie,1952,1 h 43 min.,"Comédie, Comédie musicale, Romance",https://media.senscritique.com/media/000015156712/300/chantons_sous_la_pluie.jpg
+101,Inglourious Basterds,2009,2 h 33 min.,"Drame, Guerre",https://media.senscritique.com/media/000019716225/300/inglourious_basterds.jpg
+102,Le Fabuleux Destin d'Amélie Poulain,2001,2 h 02 min.,Comédie romantique,https://media.senscritique.com/media/000004677042/300/le_fabuleux_destin_d_amelie_poulain.jpg
+103,Green Book - Sur les routes du Sud,2018,2 h 10 min.,"Drame, Biopic, Road movie",https://media.senscritique.com/media/000018240638/300/green_book_sur_les_routes_du_sud.jpg
+104,Taxi Driver,1976,1 h 53 min.,"Drame, Policier",https://media.senscritique.com/media/000020193007/300/taxi_driver.jpg
+105,Full Metal Jacket,1987,1 h 56 min.,"Drame, Guerre",https://media.senscritique.com/media/000010112905/300/full_metal_jacket.jpg
+106,Will Hunting,1997,2 h 06 min.,Drame,https://media.senscritique.com/media/000007075100/300/will_hunting.jpg
+107,Le Voleur de bicyclette,1948,1 h 29 min.,Drame,https://media.senscritique.com/media/000019170907/300/le_voleur_de_bicyclette.jpg
+108,Du silence et des ombres,1962,2 h 09 min.,Drame,https://media.senscritique.com/media/000014799038/300/du_silence_et_des_ombres.jpg
+109,Le Kid,1921,52 min.,"Comédie dramatique, Muet",https://media.senscritique.com/media/000019176617/300/le_kid.jpg
+110,Joker,2019,2 h 02 min.,"Policier, Drame, Thriller",https://media.senscritique.com/media/000018727645/300/joker.jpg
+111,Joker - Folie à deux,2024,2 h 18 min.,"Comédie musicale, Drame, Policier",https://media.senscritique.com/media/000022018656/300/joker_folie_a_deux.jpg
+112,La Chasse,2012,1 h 55 min.,Drame,https://media.senscritique.com/media/000006199430/300/la_chasse.jpg
+113,Snatch - Tu braques ou tu raques,2000,1 h 44 min.,"Gangster, Comédie",https://media.senscritique.com/media/000013925761/300/snatch_tu_braques_ou_tu_raques.jpg
+114,Scarface,1983,2 h 50 min.,"Drame, Gangster",https://media.senscritique.com/media/000007796731/300/scarface.jpg
+115,...Et pour quelques dollars de plus,1965,2 h 12 min.,Western,https://media.senscritique.com/media/000008032088/300/et_pour_quelques_dollars_de_plus.jpg
+116,La Garçonnière,1960,2 h 05 min.,"Comédie, Drame, Romance",https://media.senscritique.com/media/000004889290/300/la_garconniere.jpg
+117,Metropolis,1927,2 h 25 min.,"Muet, Drame, Science-fiction",https://media.senscritique.com/media/000007863804/300/metropolis.jpg
+118,Monty Python - Sacré Graal !,1975,1 h 31 min.,"Aventure, Comédie, Fantastique",https://media.senscritique.com/media/000015939129/300/monty_python_sacre_graal.jpg
+119,L.A. Confidential,1997,2 h 13 min.,"Policier, Drame, Thriller",https://media.senscritique.com/media/000017513360/300/l_a_confidential.jpg
+120,1917,2019,1 h 59 min.,"Drame, Guerre",https://media.senscritique.com/media/000019142368/300/1917.jpg
+121,Danse avec les loups,1990,3 h 01 min.,"Aventure, Drame, Western",https://media.senscritique.com/media/000020843297/300/danse_avec_les_loups.png
+122,Là-haut,2009,1 h 36 min.,"Animation, Aventure, Drame",https://media.senscritique.com/media/000004878312/300/la_haut.jpg
+123,Rashōmon,1950,1 h 28 min.,"Policier, Drame",https://media.senscritique.com/media/000007639595/300/rashomon.jpg
+124,Cinema Paradiso,1988,2 h 35 min.,Drame,https://media.senscritique.com/media/000016217666/300/cinema_paradiso.jpg
+125,La Route,2009,1 h 51 min.,"Drame, Road movie",https://media.senscritique.com/media/000019716238/300/la_route.jpg
+126,Certains l'aiment chaud !,1959,2 h 01 min.,"Comédie, Romance, Gangster",https://media.senscritique.com/media/000019167637/300/certains_l_aiment_chaud.jpg
+127,Le Garde du corps,1961,1 h 50 min.,"Arts martiaux, Aventure, Drame",https://media.senscritique.com/media/000016648346/300/le_garde_du_corps.jpg
+128,La Chute,2004,2 h 36 min.,"Biopic, Drame, Historique",https://media.senscritique.com/media/000007752577/300/la_chute.jpg
+129,Impitoyable,1992,2 h 11 min.,Western,https://media.senscritique.com/media/000012260893/300/impitoyable.jpg
+130,Piège de cristal,1988,2 h 11 min.,"Action, Thriller",https://media.senscritique.com/media/000012315612/300/piege_de_cristal.jpg
+131,58 minutes pour vivre,1990,2 h 04 min.,"Action, Thriller",https://media.senscritique.com/media/000008623924/300/58_minutes_pour_vivre.png
+132,Une journée en enfer,1995,2 h 11 min.,"Action, Policier, Thriller",https://media.senscritique.com/media/000019229515/300/une_journee_en_enfer.jpg
+133,Heat,1995,2 h 50 min.,"Policier, Drame, Thriller",https://media.senscritique.com/media/000007856732/300/heat.jpg
+134,Incendies,2010,2 h 11 min.,Drame,https://media.senscritique.com/media/000004677112/300/incendies.jpg
+135,Happiness Therapy,2012,2 h 02 min.,"Comédie dramatique, Comédie romantique",https://media.senscritique.com/media/000004255469/300/happiness_therapy.jpg
+136,Vivre,1952,2 h 23 min.,Drame,https://media.senscritique.com/media/000019848198/300/vivre.jpg
+137,Soul,2020,1 h 40 min.,"Animation, Aventure, Comédie",https://media.senscritique.com/media/000019769926/300/soul.jpg
+138,Raging Bull,1980,2 h 09 min.,"Biopic, Drame, Sport",https://media.senscritique.com/media/000012223995/300/raging_bull.jpg
+139,The Irishman,2019,3 h 29 min.,"Drame, Gangster, Policier",https://media.senscritique.com/media/000021142536/300/the_irishman.png
+140,Les Enfants du ciel,1997,1 h 30 min.,Comédie dramatique,https://media.senscritique.com/media/000011042957/300/les_enfants_du_ciel.jpg
+141,Le Labyrinthe de Pan,2006,1 h 58 min.,"Drame, Fantastique, Épouvante-Horreur",https://media.senscritique.com/media/000000116449/300/le_labyrinthe_de_pan.jpg
+142,Chinatown,1974,2 h 10 min.,Film noir,https://media.senscritique.com/media/000010819307/300/chinatown.jpg
+143,Mon voisin Totoro,1988,1 h 26 min.,"Animation, Fantastique",https://media.senscritique.com/media/000015766073/300/mon_voisin_totoro.jpg
+144,Le Château ambulant,2004,1 h 59 min.,"Animation, Aventure, Fantasy",https://media.senscritique.com/media/000017588583/300/le_chateau_ambulant.jpg
+145,Ran,1985,2 h 42 min.,"Drame, Historique",https://media.senscritique.com/media/000013808826/300/ran.png
+146,Le Troisième homme,1949,1 h 44 min.,"Thriller, Drame, Film noir",https://media.senscritique.com/media/000011726113/300/le_troisieme_homme.jpg
+147,Jugement à Nuremberg,1961,3 h 06 min.,"Drame, Historique, Guerre",https://media.senscritique.com/media/000016132163/300/jugement_a_nuremberg.jpg
+148,Mon père et mon fils,2005,1 h 48 min.,Comédie dramatique,https://media.senscritique.com/media/000018370716/300/mon_pere_et_mon_fils.jpg
+149,Dans ses yeux,2009,2 h 09 min.,"Drame, Policier",https://media.senscritique.com/media/000000085100/300/dans_ses_yeux.jpg
+150,La Mort aux trousses,1959,2 h 16 min.,"Action, Aventure, Thriller",https://media.senscritique.com/media/000016132379/300/la_mort_aux_trousses.jpg
+151,La Ruée vers l'or,1925,1 h 35 min.,"Muet, Aventure, Comédie dramatique",https://media.senscritique.com/media/000016574975/300/la_ruee_vers_l_or.jpg
+152,Un homme d'exception,2001,2 h 15 min.,"Biopic, Drame",https://media.senscritique.com/media/000020841679/300/un_homme_d_exception.png
+153,Le Pont de la rivière Kwaï,1957,2 h 41 min.,"Aventure, Drame, Guerre",https://media.senscritique.com/media/000008503406/300/le_pont_de_la_riviere_kwai.jpg
+154,Casino,1995,2 h 58 min.,"Biopic, Drame, Gangster",https://media.senscritique.com/media/000015404652/300/casino.jpg
+155,Amour,2012,2 h 05 min.,"Drame, Romance",https://media.senscritique.com/media/000020398178/300/amour.jpg
+156,"Arnaques, crimes & botanique",1998,1 h 47 min.,"Comédie, Gangster",https://media.senscritique.com/media/000000151189/300/arnaques_crimes_botanique.jpg
+157,3 Billboards - Les Panneaux de la vengeance,2017,1 h 56 min.,"Comédie, Policier, Drame",https://media.senscritique.com/media/000017529020/300/3_billboards_les_panneaux_de_la_vengeance.jpg
+158,Le Septième Sceau,1957,1 h 36 min.,"Drame, Fantastique",https://media.senscritique.com/media/000004811431/300/le_septieme_sceau.jpg
+159,Morse,2008,1 h 55 min.,"Drame, Épouvante-Horreur",https://media.senscritique.com/media/000000093489/300/morse.jpg
+160,The Wrestler,2008,1 h 49 min.,"Drame, Sport",https://media.senscritique.com/media/000006633099/300/the_wrestler.jpg
+161,Sur les quais,1954,1 h 48 min.,"Policier, Drame, Thriller",https://media.senscritique.com/media/000010874905/300/sur_les_quais.jpg
+162,Le Loup de Wall Street,2013,3 h.,"Biopic, Comédie dramatique, Policier",https://media.senscritique.com/media/000006014067/300/le_loup_de_wall_street.jpg
+163,Elephant Man,1980,2 h 04 min.,"Biopic, Drame",https://media.senscritique.com/media/000012268597/300/elephant_man.jpg
+164,Vice-versa,2015,1 h 34 min.,"Animation, Comédie, Drame",https://media.senscritique.com/media/000009540773/300/vice_versa.jpg
+165,V pour Vendetta,2006,2 h 12 min.,"Fantastique, Science-fiction, Thriller",https://media.senscritique.com/media/000004876958/300/v_pour_vendetta.jpg
+166,Slumdog Millionaire,2008,2 h.,"Drame, Romance, Thriller",https://media.senscritique.com/media/000004851880/300/slumdog_millionaire.jpg
+167,Le Guépard,1963,3 h 06 min.,"Drame, Historique",https://media.senscritique.com/media/000021492545/300/le_guepard.png
+168,There Will Be Blood,2007,2 h 38 min.,Drame,https://media.senscritique.com/media/000000128779/300/there_will_be_blood.jpg
+169,Warrior,2011,2 h 20 min.,"Drame, Sport",https://media.senscritique.com/media/000008710115/300/warrior.jpg
+170,No Country for Old Men,2007,2 h 02 min.,"Policier, Drame, Thriller",https://media.senscritique.com/media/000019855627/300/no_country_for_old_men.jpg
+171,Blade Runner,1982,1 h 57 min.,"Science-fiction, Film noir, Thriller",https://media.senscritique.com/media/000019855182/300/blade_runner.jpg
+172,Room,2015,1 h 58 min.,"Drame, Thriller",https://media.senscritique.com/media/000013727481/300/room.jpg
+173,Le crime était presque parfait,1954,1 h 45 min.,"Policier, Thriller",https://media.senscritique.com/media/000013858611/300/le_crime_etait_presque_parfait.jpg
+174,Dog Days,2002,2 h.,Drame,https://media.senscritique.com/media/000000058318/300/dog_days.jpg
+175,Avengers: Infinity War,2018,2 h 29 min.,"Action, Aventure, Fantasy",https://media.senscritique.com/media/000017671962/300/avengers_infinity_war.jpg
+176,Avengers: Endgame,2019,3 h 01 min.,"Action, Aventure, Fantasy",https://media.senscritique.com/media/000018476719/300/avengers_endgame.jpg
+177,Trainspotting,1996,1 h 34 min.,Comédie dramatique,https://media.senscritique.com/media/000004889078/300/trainspotting.jpg
+178,Le Mécano de la Générale,1926,1 h 18 min.,"Muet, Action, Aventure",https://media.senscritique.com/media/000019174375/300/le_mecano_de_la_generale.jpg
+179,Autant en emporte le vent,1939,3 h 58 min.,"Drame, Historique, Romance",https://media.senscritique.com/media/000012324780/300/autant_en_emporte_le_vent.jpg
+180,The Thing,1982,1 h 44 min.,"Épouvante-Horreur, Science-fiction",https://media.senscritique.com/media/000012652206/300/the_thing.jpg
+181,Fargo,1996,1 h 38 min.,"Policier, Drame, Thriller",https://media.senscritique.com/media/000012397693/300/fargo.jpg
+182,Requiem pour un massacre,1985,2 h 22 min.,"Drame, Guerre",https://media.senscritique.com/media/000008869428/300/requiem_pour_un_massacre.jpg
+183,Négociateur,1998,2 h 18 min.,"Action, Policier, Drame",https://media.senscritique.com/media/000019879544/300/negociateur.jpg
+184,Le Monde de Nemo,2003,1 h 40 min.,"Animation, Aventure, Comédie",https://media.senscritique.com/media/000019700349/300/le_monde_de_nemo.jpg
+185,Gran Torino,2008,1 h 56 min.,"Drame, Thriller",https://media.senscritique.com/media/000007087633/300/gran_torino.jpg
+186,Le Cabinet du docteur Caligari,1920,1 h 16 min.,"Drame, Thriller, Muet",https://media.senscritique.com/media/000006262054/300/le_cabinet_du_docteur_caligari.jpg
+187,E.T. l'extra-terrestre,1982,1 h 55 min.,"Fantastique, Aventure, Science-fiction",https://media.senscritique.com/media/000004854793/300/e_t_l_extra_terrestre.jpg
+188,Voyage au bout de l'enfer,1978,3 h 03 min.,"Drame, Guerre",https://media.senscritique.com/media/000014108613/300/voyage_au_bout_de_l_enfer.jpg
+189,Shutter Island,2010,2 h 18 min.,Thriller,https://media.senscritique.com/media/000007087624/300/shutter_island.jpg
+190,The Big Lebowski,1998,1 h 57 min.,"Comédie, Policier",https://media.senscritique.com/media/000012353514/300/the_big_lebowski.jpg
+191,Kill Bill - Volume 1,2003,1 h 51 min.,"Arts martiaux, Action",https://media.senscritique.com/media/000016306773/300/kill_bill_volume_1.jpg
+192,Kill Bill - Volume 2,2004,2 h 17 min.,"Action, Arts martiaux",https://media.senscritique.com/media/000019273671/300/kill_bill_volume_2.jpg
+193,Annie Hall,1977,1 h 33 min.,"Romance, Comédie dramatique",https://media.senscritique.com/media/000005556545/300/annie_hall.png
+194,Luke la main froide,1967,2 h 06 min.,"Drame, Policier",https://media.senscritique.com/media/000018960036/300/luke_la_main_froide.jpg
+195,Mary et Max.,2009,1 h 32 min.,"Animation, Comédie dramatique",https://media.senscritique.com/media/000010075106/300/mary_et_max.jpg
+196,Tu ne tueras point,2016,2 h 19 min.,"Biopic, Drame, Historique",https://media.senscritique.com/media/000016515800/300/tu_ne_tueras_point.jpg
+197,Your Name.,2016,1 h 46 min.,"Animation, Drame, Fantastique",https://media.senscritique.com/media/000016585625/300/your_name.jpg
+198,Coco,2017,1 h 45 min.,"Animation, Aventure, Comédie",https://media.senscritique.com/media/000017254032/300/coco.jpg
+199,Jurassic Park,1993,2 h 07 min.,"Aventure, Science-fiction",https://media.senscritique.com/media/000021553314/300/jurassic_park.png
+200,Le Monde Perdu - Jurassic Park,1997,2 h 09 min.,"Aventure, Science-fiction",https://media.senscritique.com/media/000006798909/300/le_monde_perdu_jurassic_park.jpg
+201,Jurassic Park III,2001,1 h 32 min.,"Aventure, Science-fiction",https://media.senscritique.com/media/000006798951/300/jurassic_park_iii.jpg
+202,The Invitation,2016,1 h 40 min.,Thriller,https://media.senscritique.com/media/000017432832/300/the_invitation.jpg
+203,Dragons,2010,1 h 38 min.,"Animation, Aventure, Comédie",https://media.senscritique.com/media/000006509944/300/dragons.jpg
+204,Dragons 2,2014,1 h 45 min.,"Animation, Action, Aventure",https://media.senscritique.com/media/000006984192/300/dragons_2.jpg
+205,Dragons 3 : Le Monde caché,2019,1 h 44 min.,"Animation, Action, Aventure",https://media.senscritique.com/media/000018296169/300/dragons_3_le_monde_cache.jpg
+206,Gone Girl,2014,2 h 29 min.,"Drame, Thriller, Film noir",https://media.senscritique.com/media/000015538722/300/gone_girl.jpg
+207,Les Nouveaux Sauvages,2014,2 h 02 min.,"Comédie, Drame, Sketches",https://media.senscritique.com/media/000019614870/300/les_nouveaux_sauvages.jpg
+208,The Truman Show,1998,1 h 43 min.,"Comédie dramatique, Science-fiction",https://media.senscritique.com/media/000007138610/300/the_truman_show.jpg
+209,Stalker,1979,2 h 43 min.,"Drame, Science-fiction",https://media.senscritique.com/media/000006360574/300/stalker.jpg
+210,The Grand Budapest Hotel,2014,1 h 39 min.,"Comédie, Drame",https://media.senscritique.com/media/000006352793/300/the_grand_budapest_hotel.jpg
+211,Au nom du père,1993,2 h 13 min.,"Biopic, Drame, Thriller",https://media.senscritique.com/media/000020313148/300/au_nom_du_pere.jpg
+212,Stand by Me,1986,1 h 29 min.,"Aventure, Drame",https://media.senscritique.com/media/000019241265/300/stand_by_me.jpg
+213,Hotel Rwanda,2004,2 h 01 min.,"Biopic, Drame, Historique",https://media.senscritique.com/media/000007227065/300/hotel_rwanda.jpg
+214,Assurance sur la mort,1944,1 h 47 min.,Film noir,https://media.senscritique.com/media/000005759768/300/assurance_sur_la_mort.png
+215,Traffic,2000,2 h 27 min.,"Policier, Drame, Thriller",https://media.senscritique.com/media/000019184349/300/traffic.jpg
+216,Platoon,1986,2 h.,"Drame, Guerre",https://media.senscritique.com/media/000012235259/300/platoon.jpg
+217,Into the Wild,2007,2 h 28 min.,"Biopic, Road movie, Drame",https://media.senscritique.com/media/000019629038/300/into_the_wild.jpg
+218,Network - Main basse sur la TV,1976,2 h 01 min.,Drame,https://media.senscritique.com/media/000019258118/300/network_main_basse_sur_la_tv.jpg
+219,Persona,1966,1 h 24 min.,Drame,https://media.senscritique.com/media/000000170728/300/persona.jpg
+220,Ben-Hur,1959,3 h 42 min.,"Péplum, Historique, Drame",https://media.senscritique.com/media/000016152208/300/ben_hur.jpg
+221,Monty Python - La Vie de Brian,1979,1 h 34 min.,"Comédie, Péplum, Aventure",https://media.senscritique.com/media/000020211567/300/monty_python_la_vie_de_brian.jpg
+222,12 Years a Slave,2013,2 h 14 min.,"Biopic, Drame, Historique",https://media.senscritique.com/media/000005691560/300/12_years_a_slave.jpg
+223,Million Dollar Baby,2004,2 h 12 min.,"Sport, Drame",https://media.senscritique.com/media/000008845171/300/million_dollar_baby.jpg
+224,Before Sunrise,1995,1 h 41 min.,Romance,https://media.senscritique.com/media/000006202644/300/before_sunrise.jpg
+225,Les Incorruptibles,1987,1 h 59 min.,"Policier, Drame, Historique",https://media.senscritique.com/media/000012223252/300/les_incorruptibles.jpg
+226,Prisoners,2013,2 h 33 min.,"Policier, Drame, Thriller",https://media.senscritique.com/media/000005479390/300/prisoners.jpg
+227,Mad Max - Fury Road,2015,2 h.,"Action, Aventure, Science-fiction",https://media.senscritique.com/media/000017108234/300/mad_max_fury_road.jpg
+228,Logan,2017,2 h 15 min.,"Action, Science-fiction, Aventure",https://media.senscritique.com/media/000017509471/300/logan.jpg
+229,Hatchi,2010,1 h 33 min.,"Drame, Biopic",https://media.senscritique.com/media/000009494804/300/hatchi.jpg
+230,L'Adieu,2019,1 h 40 min.,Comédie dramatique,https://media.senscritique.com/media/000018971639/300/l_adieu.jpg
+231,Ne vous retournez pas,1973,1 h 50 min.,"Drame, Thriller, Épouvante-Horreur",https://media.senscritique.com/media/000019826293/300/ne_vous_retournez_pas.jpg
+232,Le Salaire de la peur,1953,2 h 28 min.,"Aventure, Drame, Thriller",https://media.senscritique.com/media/000020395334/300/le_salaire_de_la_peur.jpg
+233,Arrête-moi si tu peux,2002,2 h 21 min.,"Biopic, Comédie, Policier",https://media.senscritique.com/media/000019636200/300/arrete_moi_si_tu_peux.jpg
+234,Fantastic Mr. Fox,2009,1 h 27 min.,"Aventure, Comédie, Animation",https://media.senscritique.com/media/000006592959/300/fantastic_mr_fox.jpg
+235,Le Ruban blanc,2009,2 h 24 min.,"Drame, Historique, Thriller",https://media.senscritique.com/media/000022153978/300/le_ruban_blanc.jpg
+236,BlacKkKlansman - J'ai infiltré le Ku Klux Klan,2018,2 h 16 min.,"Comédie, Policier, Biopic",https://media.senscritique.com/media/000017867305/300/blac_kk_klansman_j_ai_infiltre_le_ku_klux_klan.jpg
+237,La dolce vita,1960,2 h 54 min.,Comédie dramatique,https://media.senscritique.com/media/000020048338/300/la_dolce_vita.jpg
+238,Spotlight,2015,2 h 08 min.,Thriller,https://media.senscritique.com/media/000014913117/300/spotlight.jpg
+239,Amours chiennes,2000,2 h 33 min.,"Drame, Thriller",https://media.senscritique.com/media/000007085802/300/amours_chiennes.jpg
+240,Harry Potter à l'école des sorciers,2001,2 h 32 min.,"Aventure, Fantastique",https://media.senscritique.com/media/000004022785/300/harry_potter_a_l_ecole_des_sorciers.jpg
+241,Harry Potter et la chambre des secrets,2002,2 h 41 min.,"Aventure, Fantastique",https://media.senscritique.com/media/000000158006/300/harry_potter_et_la_chambre_des_secrets.jpg
+242,Avatar,2009,2 h 42 min.,"Action, Aventure, Science-fiction",https://media.senscritique.com/media/000019629031/300/avatar.jpg
+243,A History of Violence,2005,1 h 35 min.,"Thriller, Film noir",https://media.senscritique.com/media/000000134301/300/a_history_of_violence.jpg
+244,Barry Lyndon,1975,3 h 04 min.,"Drame, Historique, Aventure",https://media.senscritique.com/media/000012564669/300/barry_lyndon.jpg
+245,Solaris,1972,2 h 47 min.,"Drame, Science-fiction",https://media.senscritique.com/media/000014304395/300/solaris.jpg
+246,Tigre et Dragon,2000,1 h 59 min.,"Arts martiaux, Aventure, Fantasy",https://media.senscritique.com/media/000019274240/300/tigre_et_dragon.jpg
+247,Toni Erdmann,2016,2 h 42 min.,Comédie dramatique,https://media.senscritique.com/media/000016213257/300/toni_erdmann.jpg
+248,Rocky,1976,1 h 59 min.,"Drame, Sport",https://media.senscritique.com/media/000012395998/300/rocky.jpg
+249,Butch Cassidy et le Kid,1969,1 h 50 min.,"Biopic, Western",https://media.senscritique.com/media/000013887033/300/butch_cassidy_et_le_kid.jpg
+250,Manhattan,1979,1 h 36 min.,"Comédie, Drame, Romance",https://media.senscritique.com/media/000004888956/300/manhattan.jpg
+251,Monstres & Cie,2001,1 h 32 min.,"Comédie, Animation",https://media.senscritique.com/media/000011924020/300/monstres_cie.jpg
+252,Le Cercle des poètes disparus,1989,2 h 08 min.,Drame,https://media.senscritique.com/media/000012163033/300/le_cercle_des_poetes_disparus.jpg
+253,Les Raisins de la colère,1940,2 h 09 min.,"Drame, Historique, Road movie",https://media.senscritique.com/media/000018650118/300/les_raisins_de_la_colere.jpg
+254,L'Homme qui voulait savoir,1988,1 h 47 min.,Thriller,https://media.senscritique.com/media/000007574066/300/l_homme_qui_voulait_savoir.jpg
+255,Las Vegas Parano,1998,1 h 58 min.,"Comédie, Road movie",https://media.senscritique.com/media/000010922254/300/las_vegas_parano.jpg
+256,Wallace et Gromit - Le Mystère du Lapin-garou,2005,1 h 25 min.,"Animation, Comédie",https://media.senscritique.com/media/000006539327/300/wallace_et_gromit_le_mystere_du_lapin_garou.jpg
+257,Le Faucon maltais,1941,1 h 40 min.,Film noir,https://media.senscritique.com/media/000016072222/300/le_faucon_maltais.jpg
+258,La Haine,1995,1 h 38 min.,Drame,https://media.senscritique.com/media/000022117193/300/la_haine.png
+259,Gandhi,1982,3 h 11 min.,"Biopic, Drame, Historique",https://media.senscritique.com/media/000009456689/300/gandhi.jpg
+260,In the Mood for Love,2000,1 h 38 min.,"Drame, Romance",https://media.senscritique.com/media/000020197781/300/in_the_mood_for_love.jpg
+261,Donnie Darko,2001,1 h 53 min.,"Drame, Science-fiction",https://media.senscritique.com/media/000019633715/300/donnie_darko.png
+262,Un jour sans fin,1993,1 h 43 min.,"Comédie, Fantastique, Romance",https://media.senscritique.com/media/000019423016/300/un_jour_sans_fin.jpg
+263,La Couleur des sentiments,2011,2 h 26 min.,"Drame, Comédie",https://media.senscritique.com/media/000007177821/300/la_couleur_des_sentiments.jpg
+264,Le Magicien d'Oz,1939,1 h 42 min.,"Aventure, Fantastique, Comédie musicale",https://media.senscritique.com/media/000012254945/300/le_magicien_d_oz.jpg
+265,Les Gardiens de la galaxie,2014,2 h 02 min.,"Action, Aventure, Science-fiction",https://media.senscritique.com/media/000016933664/300/les_gardiens_de_la_galaxie.jpg
+266,Les Dents de la mer,1975,2 h 04 min.,"Épouvante-Horreur, Thriller, Drame",https://media.senscritique.com/media/000021564602/300/les_dents_de_la_mer.png
+267,Before Sunset,2004,1 h 20 min.,"Drame, Romance",https://media.senscritique.com/media/000000169602/300/before_sunset.png
+268,Pirates des Caraïbes - La Malédiction du Black Pearl,2003,2 h 23 min.,"Action, Aventure, Fantastique",https://media.senscritique.com/media/000004981615/300/pirates_des_caraibes_la_malediction_du_black_pearl.jpg
+269,Pirates des Caraïbes - Le Secret du coffre maudit,2006,2 h 31 min.,"Action, Aventure, Fantastique",https://media.senscritique.com/media/000004766961/300/pirates_des_caraibes_le_secret_du_coffre_maudit.jpg
+270,Pirates des Caraïbes - Jusqu'au bout du monde,2007,2 h 49 min.,"Action, Aventure, Fantastique",https://media.senscritique.com/media/000005695642/300/pirates_des_caraibes_jusqu_au_bout_du_monde.jpg
+271,L'Exorciste,1973,2 h 02 min.,Épouvante-Horreur,https://media.senscritique.com/media/000012299189/300/l_exorciste.jpg
+272,Un après-midi de chien,1975,2 h 05 min.,"Drame, Gangster",https://media.senscritique.com/media/000012535576/300/un_apres_midi_de_chien.jpg
+273,L'Arnaque,1973,2 h 09 min.,"Comédie, Gangster",https://media.senscritique.com/media/000019188970/300/l_arnaque.jpg
+274,La Grande Évasion,1963,2 h 52 min.,"Aventure, Guerre",https://media.senscritique.com/media/000012268355/300/la_grande_evasion.jpg
+275,Once Upon a Time... in Hollywood,2019,2 h 41 min.,"Drame, Comédie",https://media.senscritique.com/media/000021158958/300/once_upon_a_time_in_hollywood.png
+276,King Kong,1933,1 h 40 min.,"Aventure, Épouvante-Horreur, Fantastique",https://media.senscritique.com/media/000010136669/300/king_kong.jpg
+277,Glengarry,1992,1 h 40 min.,Policier,https://media.senscritique.com/media/000019167562/300/glengarry.jpg
+278,Memories of Murder,2003,2 h 10 min.,"Policier, Drame, Thriller",https://media.senscritique.com/media/000014820526/300/memories_of_murder.jpg
+279,Une séparation,2011,2 h 03 min.,Drame,https://media.senscritique.com/media/000012964273/300/une_separation.jpg
+280,Rush,2013,2 h 03 min.,"Action, Biopic, Drame",https://media.senscritique.com/media/000005412716/300/rush.jpg
+281,Princess Bride,1987,1 h 38 min.,"Romance, Aventure, Fantasy",https://media.senscritique.com/media/000019183571/300/princess_bride.jpg
+282,Funny Games,1997,1 h 48 min.,"Drame, Thriller",https://media.senscritique.com/media/000012799598/300/funny_games.jpg
