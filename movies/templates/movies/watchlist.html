@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Niveaux</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.3/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+        <a class="navbar-brand" href="{% url 'home' %}">CineLevel</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Basculer la navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="{% url 'home' %}">Accueil</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="{% url 'levels' %}">Niveaux <span class="sr-only">(actuel)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="">Watchlist</a>
+                </li>
+                <li class="nav-item">
+                {% if user.is_authenticated %}
+                    <form method="post" action="{% url 'logout' %}">
+                        {% csrf_token %}
+                        <button type="submit" class="btn btn-light">Déconnexion</button>
+                    </form>
+                {% endif %}
+                </li>
+            </ul>
+        </div>
+    </nav>
+</head>
+
+<body>
+    <div class="container" style="padding-top: 70px;">
+        <div class="d-flex justify-content-between align-items-center mt-3">
+            <h2>Films vus</h2>
+        </div>
+        <div class="row">
+            {% for watched_movie in watched_movies %}
+                <div class="col-md-4">
+                    <div class="movie-card">
+                        <img src="{{ watched_movie.movie.image }}" alt="{{ watched_movie.movie.title }}">
+                        <div class="mt-2">
+                            <h5>{{ watched_movie.movie.title }} ({{ watched_movie.movie.year }})</h5>
+                            <p><strong>Durée :</strong> {{ watched_movie.movie.duration }}</p>
+                            <p><strong>Genre :</strong> {{ watched_movie.movie.genre }}</p>
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+
+    <style>
+        body {
+            background-color: #ffffff;
+            color: #000000;
+        }
+        .movie-card {
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 15px;
+            margin: 15px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            transition: box-shadow 0.3s;
+        }
+        .movie-card img {
+            max-width: 100%;
+            border-radius: 5px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        }
+        .movie-card:hover {
+            box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+        }
+    </style>
+</body>
+</html>
