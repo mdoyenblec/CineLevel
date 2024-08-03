@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Inscription</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container">
+        <h2 class="my-4">Inscription</h2>
+        <form method="post">
+            {% csrf_token %}
+            <div class="form-group">
+                <label for="username">Nom d'utilisateur</label>
+                <input type="text" class="form-control" id="username" name="username" required>
+            </div>
+            <div class="form-group">
+                <label for="password1">Mot de passe</label>
+                <input type="password" class="form-control" id="password1" name="password1" required>
+            </div>
+            <div class="form-group">
+                <label for="password2">Confirmez le mot de passe</label>
+                <input type="password" class="form-control" id="password2" name="password2" required>
+            </div>
+            <button type="submit" class="btn btn-primary">S'inscrire</button>
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Recommandations</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.3/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+        <a class="navbar-brand" href="{% url 'home' %}">CineLevel</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Basculer la navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="{% url 'home' %}">Accueil</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{% url 'levels' %}">Niveaux</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{% url 'watchlist' %}">Liste de visionnage</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="{% url 'recommendations' %}">Recommandations <span class="sr-only">(actuel)</span></a>
+                </li>
+                <li class="nav-item">
+                {% if user.is_authenticated %}
+                    <form method="post" action="{% url 'logout' %}">
+                        {% csrf_token %}
+                        <button type="submit" class="btn btn-light">Déconnexion</button>
+                    </form>
+                {% endif %}
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <script>
+        $(document).ready(function() {
+            $('#next-movie').click(function() {
+                $.ajax({
+                    url: "{% url 'recommendations' %}",
+                    method: "GET",
+                    dataType: "json",
+                    success: function(data) {
+                        if (data.error) {
+                            alert(data.error);
+                        } else {
+                            $('#movie-title').text(`${data.title} (${data.year})`);
+                            $('#movie-image').attr('src', data.image);
+                            $('#movie-duration').text(`Durée : ${data.duration}`);
+                            $('#movie-genre').text(`Genre : ${data.genre}`);
+                        }
+                    },
+                    error: function() {
+                        alert('Erreur lors de la récupération de la recommandation.');
+                    }
+                });
+            });
+        });
+    </script>
+</head>
+<body>
+    <div class="container" style="padding-top: 70px;">
+        <div class="d-flex justify-content-center mt-3">
+            <h2>Films Recommandés</h2>
+        </div>
+        <p class="text-center">Genre préféré : {{ favorite_genre }}</p>
+        <div id="movie-container" class="row justify-content-center">
+            <div class="col-md-8">
+                {% if recommended_movie %}
+                    <div class="movie-card text-center rounded">
+                        <img id="movie-image" src="{{ recommended_movie.image }}" alt="" class="img-fluid rounded">
+                        <div class="mt-2">
+                            <h5 id="movie-title">{{ recommended_movie.title }} ({{ recommended_movie.year }})</h5>
+                            <p id="movie-duration">Durée : {{ recommended_movie.duration }}</p>
+                            <p id="movie-genre">Genre : {{ recommended_movie.genre }}</p>
+                        </div>
+                    </div>
+                    <div class="col-md-12 text-center">
+                        <button id="next-movie" class="btn btn-primary w-50 mt-3">Autre recommandation</button>
+                    </div>
+                {% else %}
+                    <p>Aucune recommandation de film disponible.</p>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+
+    <style>
+        body {
+            background-color: #f0f0f0; /* Fond gris */
+            color: #000000;
+        }
+        .movie-card {
+            background-color: #ffffff; /* Fond blanc pour la carte */
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 15px;
+            margin: 15px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            transition: box-shadow 0.3s;
+        }
+        .movie-card img {
+            max-width: 100%;
+            border-radius: 5px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        }
+        .movie-card:hover {
+            box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+        }
+    </style>
+</body>
+</html>
