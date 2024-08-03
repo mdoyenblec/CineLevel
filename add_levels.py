@@ -29,7 +29,7 @@ levels = [
     {"name": "Niveau 20", "title": "Légende du Cinéma 🌟", "min_movies_watched": 100, "description": "Vous êtes une légende vivante du cinéma. Spielberg vous envie !"}
 ]
 
-Level.objects.all().delete()  # Supprimer tous les niveaux existants
+Level.objects.all().delete()
 for level in levels:
     Level.objects.create(**level)
 
