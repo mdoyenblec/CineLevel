@@ -24,8 +24,11 @@ This project also includes a personalized recommendation system that uses the mo
 Features
 
 Scraping movies from an external source to create a movie database.
+
 Tracking watched movies and managing a watchlist.
+
 Level system to motivate users to watch more movies.
+
 Movie recommendations based on users' favorite genres.
 
 &nbsp;
