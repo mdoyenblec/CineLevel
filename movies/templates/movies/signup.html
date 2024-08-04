@@ -3,10 +3,64 @@
 <head>
     <title>Inscription</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            background: linear-gradient(to right, #6a11cb, #2575fc);
+            color: #ffffff;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 0;
+        }
+        .container {
+            background: black;
+            padding: 2em;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+            text-align: center;
+        }
+        h1 {
+            font-size: 4em;
+            margin-bottom: 0.5em;
+        }
+        h2 {
+            margin-bottom: 1em;
+            font-size: 2em;
+        }
+        .form-group label {
+            font-weight: bold;
+        }
+        .form-control {
+            background: rgba(255, 255, 255, 0.1);
+            border: none;
+            border-radius: 5px;
+            color: #ffffff;
+        }
+        .form-control:focus {
+            background: rgba(255, 255, 255, 0.2);
+            box-shadow: none;
+            color: #ffffff;
+        }
+        .btn {
+            margin: 0.5em 0;
+            width: 100%;
+            border-radius: 5px;
+        }
+        .btn-light {
+            background-color: #ffffff;
+            color: #6a11cb;
+            border: none;
+        }
+        .btn-outline-light {
+            border-color: #ffffff;
+        }
+    </style>
 </head>
 <body>
     <div class="container">
-        <h2 class="my-4">Inscription</h2>
+        <h1><strong>🍿 CineLevel 🍿</strong></h1>
+        <h2>Inscription</h2>
         <form method="post">
             {% csrf_token %}
             <div class="form-group">
@@ -21,7 +75,7 @@
                 <label for="password2">Confirmez le mot de passe</label>
                 <input type="password" class="form-control" id="password2" name="password2" required>
             </div>
-            <button type="submit" class="btn btn-primary">S'inscrire</button>
+            <button type="submit" class="btn btn-light">S'inscrire</button>
         </form>
     </div>
 </body>
