@@ -5,7 +5,6 @@
 Welcome to CineLevel, your new platform for discovering, tracking, and recommending movies! 🎬
 
 &nbsp;
-&nbsp;
 
 Description
 
@@ -29,13 +28,12 @@ Tracking watched movies and managing a watchlist.
 Level system to motivate users to watch more movies.
 Movie recommendations based on users' favorite genres.
 
-
+&nbsp;
+&nbsp;
+&nbsp;
 
 
 ----------------------------------------------------------------------------------------------------------------------
-&nbsp;
-&nbsp;
-&nbsp;
 
 🍿 CineLevel 🍿
 
