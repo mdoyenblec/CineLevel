@@ -1,12 +1,12 @@
 # CineLevel
 
-🍿 CineLevel 🍿
+🍿 **CineLevel** 🍿
 
 Welcome to CineLevel, your new platform for discovering, tracking, and recommending movies! 🎬
 
 &nbsp;
 
-Description
+**Description**
 
 CineLevel is a web application that allows you to:
 
@@ -21,7 +21,7 @@ This project also includes a personalized recommendation system that uses the mo
 &nbsp;
 &nbsp;
 
-Features
+**Features**
 
 Scraping movies from an external source to create a movie database.
 
@@ -38,14 +38,14 @@ Movie recommendations based on users' favorite genres.
 
 ----------------------------------------------------------------------------------------------------------------------
 
-🍿 CineLevel 🍿
+🍿 **CineLevel** 🍿
 
 Bienvenue sur CineLevel, votre nouvelle plateforme pour découvrir, suivre et recommander des films ! 🎬
 
 &nbsp;
 &nbsp;
 
-Description
+**Description**
 
 CineLevel est une application web qui vous permet de :
 
@@ -61,9 +61,12 @@ Ce projet inclut également un système de recommandation personnalisé qui util
 &nbsp;
 &nbsp;
 
-Fonctionnalités
+**Fonctionnalités**
 
 Scraping des films depuis une source externe pour créer une base de données de films.
+
 Suivi des films vus et gestion d'une liste de visionnage.
+
 Système de niveaux pour motiver les utilisateurs à regarder plus de films.
+
 Recommandations de films basées sur les genres préférés des utilisateurs.
