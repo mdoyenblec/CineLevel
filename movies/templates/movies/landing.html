@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CineLevel - Landing Page</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            background: linear-gradient(to bottom, #000000 33%, #6a11cb 33%, #2925fc 66%, #5371ea 66%);
+            color: #ffffff;
+            height: 100vh;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin: 0;
+            text-align: center;
+            padding: 0;
+            flex-direction: column;
+        }
+        .brand {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            font-size: 2em;
+            font-weight: bold;
+        }
+        h1 {
+            font-size: 4em;
+            margin-bottom: 0.5em;
+        }
+        h2 {
+            margin-bottom: 1em;
+            font-size: 2em;
+        }
+        .features {
+            margin-top: 2em;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .feature {
+            margin: 1em 0;
+            display: flex;
+            align-items: center;
+            font-size: 1.2em; 
+        }
+        .feature-icon {
+            font-size: 1.5em;
+            margin-right: 0.5em;
+        }
+        .login-button, .signup-button {
+            position: absolute;
+            top: 20px;
+        }
+        .login-button {
+            right: 20px;
+        }
+        .signup-button {
+            left: 20px;
+        }
+        .testimonial {
+            margin: 1em 0; 
+            font-style: italic;
+            font-size: 1.2em; 
+        }
+        .btn-light {
+            background-color: #ffffff;
+            color: #6a11cb;
+            border: none;
+        }
+        .btn-outline-light {
+            border-color: #ffffff;
+        }
+        .separator {
+            width: 100%;
+            height: 2px;
+            background-color: #ffffff;
+        }
+        .top-section, .middle-section, .bottom-section {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+        .top-section {
+            height: 33.3%;
+            background-color: #000000;
+        }
+        .middle-section {
+            height: 33.3%;
+            background: linear-gradient(to bottom, #1111cb, rgb(94, 37, 252));
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            text-align: center;
+        }
+        .bottom-section {
+            height: 33.3%;
+            background: linear-gradient(to right, #6a11cb, #c9d3e6);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="brand">🍿 CineLevel 🍿</div>
+    <div class="top-section">
+        <h2>Rejoignez la communauté des passionnés de cinéma !</h2>
+    </div>
+    <div class="separator"></div>
+    <div class="middle-section">
+        <div class="features" style="margin-bottom: 2em;"> 
+            <div class="feature">
+                <span class="feature-icon">🔍</span>
+                <span><strong>Découvrez et recherchez des films incroyables</strong></span>
+            </div>
+            <div class="feature">
+                <span class="feature-icon">📈</span>
+                <span><strong>Suivez votre progression et débloquez des niveaux</strong></span>
+            </div>
+            <div class="feature">
+                <span class="feature-icon">🤝</span>
+                <span><strong>Partagez et recommandez des films avec vos amis</strong></span>
+            </div>
+        </div>
+    </div>
+    <div class="separator"></div>
+    <div class="bottom-section">
+        <a href="{% url 'signup' %}" class="btn btn-light btn-lg mt-3">S'inscrire</a>
+    </div>
+    <div class="login-button">
+        <a href="{% url 'login' %}" class="btn btn-light">S'identifier</a>
+    </div>
+</body>
+</html>
