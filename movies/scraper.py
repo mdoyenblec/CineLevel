@@ -72,6 +72,6 @@ def save_to_csv(movies):
 
 if __name__ == "__main__":
     base_url = 'https://www.senscritique.com/liste/top_250_movies_the_ultimate_bucket_list_for_the_cineast/3422710'
-    num_pages = 10  # Vous pouvez ajuster le nombre de pages à scraper
+    num_pages = 10 
     all_movies = scrape_all_pages(base_url, num_pages)
     save_to_csv(all_movies)
