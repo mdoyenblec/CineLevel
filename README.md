@@ -31,6 +31,20 @@ Level system to motivate users to watch more movies.
 
 Movie recommendations based on users' favorite genres.
 
+![landing](https://github.com/user-attachments/assets/cfe363ea-4fbd-4081-aa8b-6ff7a4eb42ce)
+
+![inscription](https://github.com/user-attachments/assets/88365757-700e-4a70-9eba-7f6a297274b7)
+
+![connexion](https://github.com/user-attachments/assets/6ea6bc7b-1d67-4bba-bf6a-0d3f81cc6f3e)
+
+![homepage](https://github.com/user-attachments/assets/3f5357fb-01e3-4a8d-ad8e-a57ce9a0c8e3)
+
+![n](https://github.com/user-attachments/assets/e79d91e3-917e-4fb0-9336-2c986f6d5717)
+
+![vus](https://github.com/user-attachments/assets/1b68b42a-d201-4c89-bc63-46227057af7b)
+
+![recom](https://github.com/user-attachments/assets/dea31739-bf1b-47c5-a7f4-db407b5a3495)
+
 &nbsp;
 &nbsp;
 &nbsp;
@@ -70,3 +84,18 @@ Suivi des films vus et gestion d'une liste de visionnage.
 Système de niveaux pour motiver les utilisateurs à regarder plus de films.
 
 Recommandations de films basées sur les genres préférés des utilisateurs.
+
+![landing](https://github.com/user-attachments/assets/cfe363ea-4fbd-4081-aa8b-6ff7a4eb42ce)
+
+![inscription](https://github.com/user-attachments/assets/88365757-700e-4a70-9eba-7f6a297274b7)
+
+![connexion](https://github.com/user-attachments/assets/6ea6bc7b-1d67-4bba-bf6a-0d3f81cc6f3e)
+
+![homepage](https://github.com/user-attachments/assets/3f5357fb-01e3-4a8d-ad8e-a57ce9a0c8e3)
+
+![n](https://github.com/user-attachments/assets/e79d91e3-917e-4fb0-9336-2c986f6d5717)
+
+![vus](https://github.com/user-attachments/assets/1b68b42a-d201-4c89-bc63-46227057af7b)
+
+![recom](https://github.com/user-attachments/assets/dea31739-bf1b-47c5-a7f4-db407b5a3495)
+
