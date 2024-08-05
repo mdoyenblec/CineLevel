@@ -31,6 +31,8 @@ Level system to motivate users to watch more movies.
 
 Movie recommendations based on users' favorite genres.
 
+&nbsp;
+
 ![landing](https://github.com/user-attachments/assets/cfe363ea-4fbd-4081-aa8b-6ff7a4eb42ce)
 
 ![inscription](https://github.com/user-attachments/assets/88365757-700e-4a70-9eba-7f6a297274b7)
@@ -84,6 +86,8 @@ Suivi des films vus et gestion d'une liste de visionnage.
 Système de niveaux pour motiver les utilisateurs à regarder plus de films.
 
 Recommandations de films basées sur les genres préférés des utilisateurs.
+
+&nbsp; 
 
 ![landing](https://github.com/user-attachments/assets/cfe363ea-4fbd-4081-aa8b-6ff7a4eb42ce)
 
